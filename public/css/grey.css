@@ -1,0 +1,474 @@
+@charset "utf-8";
+
+body {
+    background:#fff url(/public/img/bgline_grey.png) repeat-x fixed;
+    color:#666;
+}
+
+a {
+    color:#666;
+}
+
+.button {
+    color:#666;
+    background-color:#fff;
+    border:1px solid #666;
+}
+
+h2 {
+    color:#AB7539;
+}
+
+h3 {
+    color:#d12f19;
+}
+
+.title {
+    color:#999;
+    text-shadow: 0px -1px 0px #fff;
+}
+
+.error {
+    color:#fff;
+    background:#B64939 !important;
+    border:2px solid #B64939 !important;
+}
+
+.info {
+    color:#fff;
+}
+
+.normal {
+    color:#fff;
+}
+
+.normal a {
+    color:#BABABA;
+}
+
+.normal a:hover {
+    color:#fff;
+}
+
+.overview {
+    background:#999;
+    color:#fff;
+}
+
+.systemmsg {
+    color:#EC8686;
+    background:#F7CACA;
+    border:2px solid #EC8686;
+}
+
+.mainchat {
+    background:#E8E8E8;
+    border:2px solid #757575;
+    box-shadow: inset 0px 10px 20px #fff;
+}
+
+.mainchat a, .userlist a {
+    text-shadow: -1px -1px 0px ##8F8F8F, 1px 1px 0px ##B4B4B4;
+}
+
+.userlist {
+    color:#666;
+    background:#E8E8E8;
+    border:2px solid #757575;
+    box-shadow: inset 0px 10px 20px #fff;
+}
+
+#chatinput {
+    color:#666;
+    background:#E8E8E8;
+    border:2px solid #757575;
+    box-shadow: inset 0px 10px 20px #fff;
+}
+
+.chattime {
+    color:#9F9F9F;
+}
+
+.lines {
+    float:right;
+    border-bottom: 1px solid #999;
+    margin-bottom:5px;
+    width:100%;
+}
+
+.datetime, .datetime a:hover {
+    color:#999;
+}
+
+.datetime a {
+    color:#AB7539;
+}
+
+.entryhover {
+    border: 2px solid #fff !important;	
+}
+
+textarea.pinnwand {
+    border: 2px solid #fff !important;
+    background:#fff !important;
+}
+
+.showlike {
+    border:1px solid #999;
+    color:#fff;
+    text-shadow: 0px 0px 10px #fff, -1px -1px #666;
+    background:#999;
+}
+
+span.youtube {
+    border:5px solid #999;
+}
+
+.chatmsg {
+    color:#EC8686;
+    background:#F7CACA;
+    border:2px solid #EC8686;
+}
+
+.mainchat a, .userlist a {
+    color:#757575;
+}
+
+.mainchat a:hover, .userlist a:hover {
+    color:#d12f19;
+}
+
+.bubble {
+    color:#666;
+    background:#B9B9B9;
+    box-shadow: 2px 2px 6px #ccc;
+}
+
+.bubble:after {
+    border-color:#B9B9B9 transparent;
+}
+
+.bubble.top:after {
+    border-color:#B9B9B9 transparent;
+}
+
+.bubble a {
+    color:#4C4C4C;
+}
+
+.showsmilies span {
+    background:#B9B9B9;
+    border:2px solid #9F9F9F;
+}
+
+select#autoscroll {
+    background:#B9B9B9;
+    border:2px solid #757575;
+}
+
+.pageframe {
+    border:2px solid #999;
+    background:#fff url(/public/img/bgline_grey.png) repeat-x;
+}
+
+.navigation li a {
+    color:#fff;
+    text-shadow: 0px -1px 0px #333;
+    background:#999;
+    border-bottom:4px solid #999;
+}
+
+.navigation li a:hover {
+    background:#4C4C4C;
+    border-bottom:4px solid #d12f19;
+}
+
+li#activesite a {
+    background:#4C4C4C;
+    border-bottom:4px solid #d12f19;
+}
+
+.loginpanel {
+    color:#757575;
+    background:#EDEDED;
+    border:2px solid #999;
+}
+
+.loginpanel td {
+    color:#666;
+}
+
+.compinfo {
+    color:#666;
+    background:#E8E8E8;
+    border:2px solid #757575;
+}
+
+input[type] {
+    border:1px solid #BABABA;
+    color:#666;
+    background:#F0F0F0;
+}
+
+.realtime p {
+    color:#AB7539 !important;
+}
+
+table.overview {
+    border:2px solid #999;
+}
+
+table.overview td {
+    border-top:1px dashed #999;
+}
+
+table.overview a:hover {
+    color:#d12f19;
+}
+
+table .heading {
+    color:#fff;
+    text-shadow: 0px -1px 0px #333;
+}
+
+.tablerow1 {
+    background:#fff;
+    color:#666;
+}
+
+.tablerow2 {
+    background:#E9E9E9;
+    color:#666;
+}
+
+.newmsg {
+    color:#529214;
+}
+
+tr:hover td.tablerow1, tr:hover td.tablerow2 {
+    background:#F9F8D5;
+}
+
+#tableup, #tableup a {
+    color:#757575 !important;
+}
+
+#tabledown, #tabledown a {
+    color:#d12f19 !important;
+}
+
+div.table {
+    background:#BABABA;
+    border:2px solid #999;
+}
+
+div.cell {
+    background:#999;
+}
+
+div.row {
+    background:#fff;
+}
+
+div.row, div.cel {
+    border:2px solid #999;
+}
+
+div.table label {
+    color:#666;
+    text-shadow: -1px -1px 0px #303030, 1px 1px 0px #A6A6A6;
+}
+
+div.table input {
+    background:#BABABA;
+    box-shadow: inset 3px 5px 8px #C0C0C0;
+}
+
+.buttons a, .buttons button {
+    background-color:#f5f5f5;
+    border:1px solid #dedede;
+    border-top:1px solid #eee;
+    border-left:1px solid #eee;
+    color:#565656;
+}
+
+button:hover, .buttons a:hover {
+    background-color:#dff4ff;
+    border:1px solid #c2e1ef;
+    color:#336699;
+}
+
+.buttons a:active {
+    background-color:#999;
+    border:1px solid #999;
+    color:#fff;
+}
+
+button.positive, .buttons a.positive {
+    color:#529214;
+}
+.buttons a.positive:hover, button.positive:hover {
+    background-color:#E6EFC2;
+    border:1px solid #C6D880;
+    color:#529214;
+}
+.buttons a.positive:active {
+    background-color:#529214;
+    border:1px solid #529214;
+    color:#fff;
+}
+
+.buttons a.negative, button.negative {
+    color:#d12f19;
+}
+
+.buttons a.negative:hover, button.negative:hover {
+    background:#fbe3e4;
+    border:1px solid #fbc2c4;
+    color:#d12f19;
+}
+
+.buttons a.negative:active {
+    background-color:#d12f19;
+    border:1px solid #d12f19;
+    color:#fff;
+}
+
+button.regular, .buttons a.regular {
+    color:#336699;
+}
+
+.buttons a.regular:hover, button.regular:hover {
+    background-color:#dff4ff;
+    border:1px solid #c2e1ef;
+    color:#336699;
+}
+
+.buttons a.regular:active{
+    background-color:#999;
+    border:1px solid #999;
+    color:#fff;
+}
+
+.copyright, .copyright a {
+    color:#999;
+}
+
+.pagination span a {
+    background-color:#999;
+    border:2px solid #999;
+    color:#fff;
+}
+
+.pagination span a:hover, .pagination span a:active {
+    background-color:#757575;
+    border:2px solid #757575;
+}
+
+.pagination span.aktuell {
+    background-color:#303030;
+    border:2px solid #999;
+    color:#d12f19;
+}
+
+#tooltip {
+    border:1px solid #303030;
+    color:#fff;
+    background:#4B4B4B;
+    box-shadow:1px 1px 6px #666;
+}
+
+.uploadContainer {
+    border:5px solid #BABABA;
+    background:#BABABA;
+}
+
+.uploadifyButton {
+    background:#999;
+    border:2px solid #999;
+    color:#666;
+}
+
+.uploadify:hover .uploadifyButton {
+    background:#4C4C4C;
+    border:2px solid #4C4C4C;
+    color:#fff;
+}
+
+.uploadifyQueueItem {
+    color:#fff;
+    background:#BABABA;
+}
+
+.avatar {
+    border:5px solid #BABABA;
+}
+
+.image-thumb a {
+    background: transparent url(/public/img/delete_avatar.png) no-repeat 0 0;
+}
+
+.preloader {
+    /*
+    background:transparent url(/public/img/loading.gif) no-repeat center center;
+    */
+}
+
+.options {
+    background:#BABABA;
+    border:2px solid #BABABA;
+}
+
+.cell p {
+    border:2px solid #BABABA;
+    background:#BABABA;
+    color:#666;
+}
+
+.cell textarea {
+    border:2px solid #BABABA;
+    background:#BABABA;
+    color:#666;
+}
+
+.slidenav ul li a {
+    background:#999;
+    color:#fff;
+}
+
+.slidenav ul li ul li a {
+    border-bottom:4px solid #999;
+}
+
+.slidenav ul li a.main {
+    color:#fff;
+    background:#999;
+    border-bottom:4px solid #999;
+}
+
+.slidenav li a.main:hover, .slidenav ul li a:hover {
+    background:#4C4C4C;
+    border-bottom:4px solid #d12f19;
+}
+
+.slidenav ul li ul {
+    box-shadow:1px 1px 6px #666;
+}
+
+ul.tabs li a {
+    background: #999;
+    border: 1px solid #999;
+    color: #fff;
+}
+
+ul.tabs li a:hover {
+    background: #4C4C4C;
+    border: 1px solid #4C4C4C;
+    color: #fff;
+}
+
+html ul.tabs li.active a {
+    background: #BABABA;
+    border: 1px solid #BABABA;
+    color: #999;
+}

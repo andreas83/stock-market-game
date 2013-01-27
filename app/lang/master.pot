@@ -1,0 +1,1195 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-09-18 15:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: app/views/Facebook/User/register.php:2
+#: app/views/Benutzer/Register/index.php:2
+#: app/views/Benutzer/Register/Speichern.php:2
+msgid "Registrierung"
+msgstr ""
+
+#: app/views/Facebook/User/register.php:20
+#: app/views/Benutzer/Register/index.php:9
+#: app/views/Benutzer/Register/Speichern.php:27
+#: app/views/Benutzer/Profil/profil.php:49
+#: app/views/Benutzer/Anmelden/index.php:9
+msgid "Benutzername"
+msgstr ""
+
+#: app/views/Facebook/User/register.php:29
+#: app/views/Benutzer/Register/index.php:24
+#: app/views/Benutzer/Register/index.php:26
+#: app/views/Benutzer/Register/Speichern.php:42
+#: app/views/Benutzer/Register/Speichern.php:44
+msgid "Registrieren"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:1
+#: app/views/Benutzer/Profil/index.php:28
+#: app/controller/Spiel/Nachrichten.php:12 template/default/navigation.php:11
+msgid "Nachrichten"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:6
+#: app/views/Aktien/Kaufen/Bezahlen.php:15
+#: app/views/Benutzer/Profil/index.php:7
+#: app/views/Benutzer/Profil/index.php:19
+#: app/views/Benutzer/Profil/index.php:224
+#: app/views/Benutzer/Profil/passwort.php:15
+#: app/views/Benutzer/Profil/profil.php:31
+#: app/views/Benutzer/Profil/profil.php:135
+#: app/views/Benutzer/Aktien/Transaktion.php:15
+#: app/views/Benutzer/Aktien/index.php:8
+msgid "Information"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:9
+msgid "In deinem Posteingang befinden sich momentan keine Nachrichten."
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:14
+msgid "Einem Benutzer eine Nachricht schreiben?"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:16
+msgid "Nachricht verfassen"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:27
+#: app/views/Spiel/Nachrichten/lesen.php:13
+#: app/views/Benutzer/Profil/index.php:288
+#: app/views/Benutzer/Profil/profil.php:196
+msgid "Von"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:30
+#: app/views/Spiel/Nachrichten/schreiben.php:55
+#: app/views/Spiel/Nachrichten/lesen.php:27
+msgid "Betreff"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:33
+#: app/views/Aktien/Uebersicht/index.php:10
+#: app/views/Benutzer/Profil/index.php:10
+#: app/views/Benutzer/Profil/index.php:111
+msgid "Optionen"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:46
+msgid "ANTWORT"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:70
+#, php-format
+msgid "Am: %s um %s Uhr"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:75
+msgid "Diese Nachricht lesen?"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:77
+msgid "Auf diese Nachricht antworten?"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/index.php:79
+msgid "Diese Nachricht l&ouml;schen?"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:9
+msgid "Original Nachricht"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:17
+#: app/views/Spiel/Nachrichten/schreiben.php:62
+#: app/views/Spiel/Nachrichten/lesen.php:5
+#: app/views/Spiel/Nachrichten/lesen.php:34
+#: app/views/Spiel/Highscore/index.php:33
+#: app/views/Benutzer/Profil/profil.php:83
+msgid "Nachricht"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:22
+#: app/views/Benutzer/Profil/index.php:30
+msgid "Verfassen"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:48
+msgid "Empfänger"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:69
+#: app/views/Spiel/Nachrichten/schreiben.php:71
+msgid "Senden"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/schreiben.php:69
+msgid "Nachricht senden?"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/lesen.php:9
+#: app/views/Benutzer/Profil/index.php:30 template/default/navigation.php:14
+msgid "Lesen"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/lesen.php:20
+msgid "Datum"
+msgstr ""
+
+#: app/views/Spiel/Nachrichten/lesen.php:41
+#, php-format
+msgid "%s auf diese Nachricht antworten?"
+msgstr ""
+
+#: app/views/Spiel/Hilfe/index.php:1 template/default/navigation.php:40
+msgid "Hilfe"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:2 template/default/navigation.php:29
+msgid "Chat"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:8
+msgid "Nutze die Eingabetaste zum versenden einer Nachricht"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:16
+msgid "Zeigt dir alle Chat Emotions"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:34
+msgid "Autoscroll"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:35
+msgid "Aktivieren"
+msgstr ""
+
+#: app/views/Spiel/Chat/index.php:36
+msgid "Deaktivieren"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:2 template/default/navigation.php:30
+msgid "Bestenliste"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:7
+msgid "Spieler"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:8
+#: app/views/Benutzer/Profil/index.php:22
+#: app/views/Benutzer/Profil/profil.php:51
+msgid "Position"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:9 app/views/Benutzer/Profil/index.php:9
+#: app/views/Benutzer/Profil/index.php:67
+#: app/views/Benutzer/Profil/profil.php:32
+#: app/views/Benutzer/Profil/profil.php:93
+msgid "Abzeichen"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:10
+msgid "Guthaben"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:11
+#: app/views/Benutzer/Aktien/index.php:33
+msgid "Aktion"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:27
+#, php-format
+msgid "Profil von %s betrachten?"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:29
+#: app/views/Benutzer/Profil/index.php:2
+#: app/views/Benutzer/Profil/profil.php:2
+#: app/controller/Benutzer/Profil.php:13 template/default/navigation.php:10
+msgid "Profil"
+msgstr ""
+
+#: app/views/Spiel/Highscore/index.php:31
+#: app/views/Benutzer/Profil/profil.php:81
+#, php-format
+msgid "%s eine Nachricht schreiben?"
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:2
+msgid "Echtzeit Information"
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:8
+#, php-format
+msgid ""
+"Hier siehst du den Echtzeitkurs von %s <br /> der jede Sekunde aktualisiert "
+"wird"
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:12
+#, php-format
+msgid "Firma: %s"
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:14
+msgid "Letztes Update: "
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:14
+#: app/views/Benutzer/Aktien/Verkaufen.php:33
+msgid "Uhr"
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:18 app/views/Aktien/Kaufen/Bezahlen.php:24
+#: app/views/Benutzer/Aktien/Transaktion.php:33
+msgid "Zur&uuml;ck zur &Uuml;bersicht."
+msgstr ""
+
+#: app/views/Aktien/Info/index.php:20 app/views/Aktien/Kaufen/Bezahlen.php:26
+#: app/views/Benutzer/Aktien/Transaktion.php:35
+msgid "&Uuml;bersicht"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:2
+#: app/views/Benutzer/Aktien/index.php:18 template/default/navigation.php:24
+msgid "Marktplatz"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:7
+#: app/views/Aktien/Kaufen/index.php:20
+#: app/views/Benutzer/Aktien/Verkaufen.php:24
+#: app/views/Benutzer/Aktien/index.php:28
+msgid "Firma"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:8
+msgid "Kurs"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:9
+#: app/views/Benutzer/Aktien/Verkaufen.php:31
+#: app/views/Benutzer/Aktien/index.php:29
+msgid "Anteile"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:24
+#, php-format
+msgid "Zeigt Echtzeit Informationen <br /> der Firma %s"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:26
+msgid "Info"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:28
+#, php-format
+msgid "Anteile der Firma %s <br /> erwerben?"
+msgstr ""
+
+#: app/views/Aktien/Uebersicht/index.php:30
+#: app/views/Aktien/Kaufen/index.php:35 app/views/Aktien/Kaufen/index.php:37
+msgid "Kaufen"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/Bezahlen.php:2 app/views/Aktien/Kaufen/index.php:2
+#: app/controller/Aktien/Kaufen.php:9
+msgid "Aktien Kaufen"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/Bezahlen.php:29
+#: app/views/Benutzer/Aktien/Transaktion.php:26
+msgid "Zur&uuml;ck zum Kauf der Anteile."
+msgstr ""
+
+#: app/views/Aktien/Kaufen/Bezahlen.php:31
+#: app/views/Benutzer/Profil/passwort.php:25
+#: app/views/Benutzer/Aktien/Transaktion.php:28
+msgid "Zur&uuml;ck"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:11
+msgid ""
+"Leider ist der Verkauf dieser Aktie <br /> vor&uuml;bergehend ausgeschlossen."
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:15
+#, php-format
+msgid ""
+"Mit deinem aktuellen Guthaben von %s &euro; <br /> kannst du maximal %s "
+"Anteile kaufen."
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:23
+msgid "Mein Guthaben"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:25
+msgid "Preis pro Aktie"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:27
+msgid "Aktualisiert um"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:29
+msgid "Verfügbare Anteile"
+msgstr ""
+
+#: app/views/Aktien/Kaufen/index.php:33
+#: app/views/Benutzer/Aktien/Verkaufen.php:37
+msgid "Anzahl"
+msgstr ""
+
+#: app/views/Benutzer/Register/index.php:17
+#: app/views/Benutzer/Register/Speichern.php:35
+msgid "E-Mail"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:8
+#: app/views/Benutzer/Profil/index.php:45
+msgid "Avatar"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:11
+#: app/views/Benutzer/Profil/index.php:162
+msgid "Daten"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:12
+#: app/views/Benutzer/Profil/index.php:249
+#: app/views/Benutzer/Profil/profil.php:33
+#: app/views/Benutzer/Profil/profil.php:160
+msgid "Pinnwand"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:13
+#: app/views/Benutzer/Profil/index.php:332
+#: app/views/Benutzer/Anmelden/index.php:17
+msgid "Passwort"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:24
+msgid "Aktueller Kontostand"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:26
+msgid "Profilaufrufe"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:29
+msgid "Nachrichten lesen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:30
+msgid "Neue Nachricht verfassen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:33
+msgid "Nur f&uuml;r registrierte Benutzer sichtbar"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:35
+msgid "Mein &ouml;ffentliches Profil"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:50
+msgid "Dein aktuelles Profilbild l&ouml;schen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:55
+msgid "Klicke um ein Avatar f&uuml;r dein Profil auszuw&auml;hlen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:72
+#: app/views/Benutzer/Profil/profil.php:98
+msgid "Abzeichen: Dino - Wert: 1000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:73
+#: app/views/Benutzer/Profil/profil.php:99
+msgid "Abzeichen: Geld - Wert: 1.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:74
+#: app/views/Benutzer/Profil/profil.php:100
+msgid "Abzeichen: Panda - Wert: 500.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:75
+#: app/views/Benutzer/Profil/profil.php:101
+msgid "Abzeichen: Rose - Wert 50.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:76
+#: app/views/Benutzer/Profil/profil.php:102
+msgid "Abzeichen: Fallschirm - Wert: 5.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:77
+#: app/views/Benutzer/Profil/profil.php:103
+msgid "Abzeichen: Lippenstift - Wert: 100 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:78
+#: app/views/Benutzer/Profil/profil.php:104
+msgid "Abzeichen: Parf&uuml;m - Wert:  500 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:79
+#: app/views/Benutzer/Profil/profil.php:105
+msgid "Abzeichen: Handtasche - Wert: 1.500 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:80
+#: app/views/Benutzer/Profil/profil.php:106
+msgid "Abzeichen: Amor - Wert:  300.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:81
+#: app/views/Benutzer/Profil/profil.php:107
+msgid "Abzeichen: Teddyb&auml;r - Wert:  250.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:82
+#: app/views/Benutzer/Profil/profil.php:108
+msgid "Abzeichen: Pralinen - Wert:  3.500 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:83
+#: app/views/Benutzer/Profil/profil.php:109
+msgid "Abzeichen: Marke - Wert:  2.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:84
+#: app/views/Benutzer/Profil/profil.php:110
+msgid "Abzeichen: Historie - Wert: 10.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:85
+#: app/views/Benutzer/Profil/profil.php:111
+msgid "Abzeichen: Schweinchen - Wert: 50.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:86
+#: app/views/Benutzer/Profil/profil.php:112
+msgid "Abzeichen: Regierung - Wert: 4.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:87
+#: app/views/Benutzer/Profil/profil.php:113
+msgid "Abzeichen: Eigenheim - Wert: 3.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:88
+#: app/views/Benutzer/Profil/profil.php:114
+msgid "Abzeichen: Torte - Wert: 400 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:89
+#: app/views/Benutzer/Profil/profil.php:115
+msgid "Abzeichen: Peperoni - Wert: 300 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:90
+#: app/views/Benutzer/Profil/profil.php:116
+msgid "Abzeichen: Kaffeetasse - Wert: 600 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:91
+#: app/views/Benutzer/Profil/profil.php:117
+msgid "Abzeichen: B&ouml;rsenprofi - Wert: 5.000.000 &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:97
+msgid "Mehr Abzeichen kaufen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:99
+msgid "Einkaufen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:115
+msgid "Sprache"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:120
+msgid "Deutsch"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:122
+msgid "Englisch"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:127
+msgid "Farbschema"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:132
+msgid "Blau"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:134
+msgid "Grau"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:136
+msgid "Gr&uuml;n"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:138
+msgid "Orange"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:144
+msgid ""
+"Auf der n&auml;chsten Seite hast du die M&ouml;glichkeit<br/>dein "
+"Nutzerkonto unwiderruflich zu l&ouml;schen."
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:146
+msgid "Nutzerkonto l&ouml;schen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:149
+msgid "Optionen &auml;ndern"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:149
+msgid "Optionen &auml;ndern?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:151
+#: app/views/Benutzer/Profil/index.php:212
+#: app/views/Benutzer/Profil/index.php:349
+msgid "&Uuml;bernehmen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:166
+msgid "Name"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:173
+#: app/views/Benutzer/Profil/profil.php:66
+msgid "Geburtstag"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:176
+msgid "Tag"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:177
+msgid "Monat"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:178
+msgid "Jahr"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:182
+#: app/views/Benutzer/Profil/profil.php:63
+msgid "Geschlecht"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:187
+#: app/views/Benutzer/Profil/profil.php:15
+#: app/views/Benutzer/Profil/profil.php:24
+msgid "M&auml;nnlich"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:189
+#: app/views/Benutzer/Profil/profil.php:18
+msgid "Weiblich"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:191
+#: app/views/Benutzer/Profil/profil.php:21
+msgid "Paar"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:196
+#: app/views/Benutzer/Profil/profil.php:61
+msgid "Herkunft"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:203
+#: app/views/Benutzer/Profil/profil.php:73
+msgid "&Uuml;ber mich"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:210
+msgid "Daten &auml;ndern"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:210
+msgid "Deine Daten &auml;ndern?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:227
+msgid "Auf deiner Pinnwand befinden sich noch keine Eintr&auml;ge."
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:235
+#: app/views/Benutzer/Profil/index.php:255
+#: app/views/Benutzer/Profil/profil.php:146
+#: app/views/Benutzer/Profil/profil.php:166
+#, php-format
+msgid "An %s&rsquo;s Pinnwand schreiben?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:237
+#: app/views/Benutzer/Profil/index.php:257
+#: app/views/Benutzer/Profil/profil.php:148
+#: app/views/Benutzer/Profil/profil.php:168
+msgid "Neuer Pinnwandeintrag"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:273
+#: app/views/Benutzer/Profil/profil.php:184
+#, php-format
+msgid "%s Personen gef&auml;llt das"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:274
+#: app/views/Benutzer/Profil/profil.php:185
+msgid "1+"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:277
+#: app/views/Benutzer/Profil/profil.php:188
+#, php-format
+msgid "Diesen Pinnwandeintrag von %s positiv bewerten?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:280
+#, php-format
+msgid "Diesen Pinnwandeintrag von %s l&ouml;schen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:283
+#: app/views/Benutzer/Profil/profil.php:191
+#, php-format
+msgid "Auf diesen Pinnwandeintrag von %s antworten?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:285
+#: app/views/Benutzer/Profil/profil.php:193
+#, php-format
+msgid "Profilbild von %s"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:289
+#: app/views/Benutzer/Profil/profil.php:197
+#, php-format
+msgid "Zum Profil von %s"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:306
+#: app/views/Benutzer/Profil/profil.php:213
+msgid "Abschicken?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:308
+#: app/views/Benutzer/Profil/profil.php:215
+msgid "Kommentieren"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:322
+msgid ""
+"Bist du dir sicher, dass du diesen Pinnwandeintrag L&ouml;schen m&ouml;"
+"chtest?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:335
+msgid "Altes Passwort"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:341
+#: app/views/Benutzer/Profil/passwort.php:2
+msgid "Neues Passwort"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:347
+msgid "Passwort &auml;ndern"
+msgstr ""
+
+#: app/views/Benutzer/Profil/index.php:347
+msgid "Dein Passwort &auml;ndern?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/header.php:20
+msgid "Avatar auswählen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/header.php:21
+msgid "Bilder"
+msgstr ""
+
+#: app/views/Benutzer/Profil/header.php:54
+msgid "Best&auml;tigen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/header.php:60
+msgid "Ja"
+msgstr ""
+
+#: app/views/Benutzer/Profil/header.php:70
+msgid "Abbrechen"
+msgstr ""
+
+#: app/views/Benutzer/Profil/passwort.php:23
+msgid "Zur&uuml;ck zum Profil"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:7
+msgid "_LAST_LOGIN_DATE_"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:39
+msgid "Benutzerinformation"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:43
+msgid "Aktuelles Profilbild"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:51
+msgid "Platz"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:53
+msgid "Alter"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:53
+msgid "Jahre"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:55
+msgid "Kontostand"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:55
+#: app/views/Benutzer/Aktien/Verkaufen.php:27
+msgid "&euro;"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:59
+msgid "Realer Name"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:66
+msgid "_BIRTHDAY_DATE_"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:68
+msgid "Letzte Anmeldung"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:122
+#, php-format
+msgid "%s ein Geschenk machen?"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:124
+msgid "Schenken"
+msgstr ""
+
+#: app/views/Benutzer/Profil/profil.php:138
+msgid ""
+"Auf dieser Pinnwand befinden sich noch keine Eintr&auml;ge. Willst du der "
+"Erste sein?"
+msgstr ""
+
+#: app/views/Benutzer/Abmelden/index.php:2
+msgid "Erfolgreich abgemeldet"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Transaktion.php:2
+#: app/views/Benutzer/Aktien/Verkaufen.php:2
+msgid "Aktien Verkaufen"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:12
+#, php-format
+msgid ""
+"Beim Verkauf w&uuml;rdest du einen Verlust <br /> von -%s &euro; pro Aktie "
+"machen."
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:15
+msgid ""
+"Beim Verkauf w&uuml;rdest du weder ein <br /> Gewinn noch Verlust verzeichen."
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:19
+#, php-format
+msgid ""
+"Beim Verkauf w&uuml;rdest du einen Gewinn <br /> von +%s &euro; pro Aktie "
+"machen."
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:27
+#: app/views/Benutzer/Aktien/index.php:31
+msgid "Aktueller Kurs"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:29
+#, php-format
+msgid "Gekauft bei: %s &euro;"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:33
+msgid "Letztes Update"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/Verkaufen.php:39
+#: app/views/Benutzer/Aktien/Verkaufen.php:41
+#: app/views/Benutzer/Aktien/index.php:83
+msgid "Verkaufen"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:2 template/default/navigation.php:28
+msgid "Mein Markt"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:11
+msgid "Keine Aktien in der &Uuml;bersicht vorhanden."
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:16
+msgid "Aktien kaufen?"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:30
+msgid "Gekauft bei"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:32
+msgid "Trend"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:50
+#, php-format
+msgid ""
+"Der aktuelle Kurs pro Aktie ist um %s &euro; gesunken. <br /> Du solltest "
+"warten!"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:53
+msgid ""
+"Beim Verkauf w&uuml;rdest du weder ein Gewinn noch Verlust verzeichen. <br /"
+"> Wir empfehlen zu warten."
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:57
+#, php-format
+msgid ""
+"Der aktuelle Kurs pro Aktie ist um %s &euro; gestiegen. <br /> Du solltest "
+"verkaufen!"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:63
+#, php-format
+msgid "Zeigt Echtzeit Informationen <br /> der Firma  %s"
+msgstr ""
+
+#: app/views/Benutzer/Aktien/index.php:82
+#, php-format
+msgid "Anteile der Firma %s <br /> verkaufen?"
+msgstr ""
+
+#: app/views/Benutzer/Anmelden/erfolgreich.php:2
+msgid "Herzlich Willkommen"
+msgstr ""
+
+#: app/views/Benutzer/Anmelden/index.php:2
+msgid "Anmeldung"
+msgstr ""
+
+#: app/views/Benutzer/Anmelden/index.php:26
+msgid "Passwort vergessen?"
+msgstr ""
+
+#: app/views/Benutzer/Anmelden/index.php:30
+msgid "Facebook Login"
+msgstr ""
+
+#: app/views/Benutzer/Anmelden/index.php:32
+#: app/views/Benutzer/Anmelden/index.php:34
+#: app/controller/Benutzer/Anmelden.php:8 template/default/navigation.php:36
+msgid "Anmelden"
+msgstr ""
+
+#: app/controller/Facebook/User.php:48
+msgid "Der Benutzername oder die E-Mail Adresse ist berreits vergeben."
+msgstr ""
+
+#: app/controller/Spiel/Nachrichten.php:65
+#: app/controller/Spiel/Nachrichten.php:74
+msgid "Empf&auml;nger konnte nicht gefunden werden."
+msgstr ""
+
+#: app/controller/Spiel/Nachrichten.php:88
+#, php-format
+msgid "Deine Nachricht wurde erfolgreich an %s gesendet."
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:31
+msgid "Vor wenigen Sekunden"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:33
+msgid "Vor weniger als einer Minute"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:37
+msgid "Vor etwa einer Minute"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:39
+#, php-format
+msgid "Vor etwa %s Minuten"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:43
+msgid "Vor etwa einer Stunde"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:45
+#, php-format
+msgid "Vor etwa %s Stunden"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:49
+msgid "Vor etwa einem Tag"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:51
+#, php-format
+msgid "Vor etwa %s Tagen"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:55
+msgid "Vor etwa einer Woche"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:57
+#, php-format
+msgid "Vor etwa %s Wochen"
+msgstr ""
+
+#: app/controller/Spiel/Chat.php:59
+#, php-format
+msgid "Am %s um %s Uhr"
+msgstr ""
+
+#: app/controller/Aktien/Kaufen.php:34
+msgid ""
+"Der Kauf dieser Aktien sind im Augenblick vom Handel ausgeschlossen. Bitte "
+"versuche es zu einem sp&auml;teren Zeitpunkt noch einmal."
+msgstr ""
+
+#: app/controller/Aktien/Kaufen.php:39
+msgid "Es sind nicht gen&uuml;gend Anteile verf&uuml;gbar."
+msgstr ""
+
+#: app/controller/Aktien/Kaufen.php:45
+msgid "Du hast leider nicht gen&uuml;gend Guthaben zur Verf&uuml;gung."
+msgstr ""
+
+#: app/controller/Aktien/Kaufen.php:50
+msgid "Du musst mindestens 1 Anteil kaufen."
+msgstr ""
+
+#: app/controller/Aktien/Kaufen.php:63
+#, php-format
+msgid ""
+"Du hast bei einem Kurs von aktuell %s &euro; erfolgreich %s Anteile von der "
+"Firma %s gekauft. Wir w&uuml;nschen dir viel Erfolg!"
+msgstr ""
+
+#: app/controller/Aktien/Uebersicht.php:7
+msgid "Aktien Übersicht"
+msgstr ""
+
+#: app/controller/Aktien/Info.php:7
+msgid "Aktien Information"
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:9
+msgid "Meine Aktien"
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:26 app/controller/Benutzer/Aktien.php:33
+msgid "Go screw someone else"
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:35
+msgid "Meine Aktien verkaufen"
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:47
+msgid "Bitte &uuml;berpr&uuml;fe deine Anzahl."
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:64
+msgid "Du kannst nicht mehr Verkaufen als du Besitzt."
+msgstr ""
+
+#: app/controller/Benutzer/Aktien.php:94
+#, php-format
+msgid "Du hast erfolgreich %s Anteile der Firma %s verkauft."
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:59
+msgid "vor wenigen Sekunden"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:61
+msgid "vor weniger als einer Minute"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:65
+msgid "vor etwa einer Minute"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:67
+#, php-format
+msgid "vor etwa %s Minuten"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:71
+msgid "vor etwa einer Stunde"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:73
+#, php-format
+msgid "vor etwa %s Stunden"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:77
+msgid "vor etwa einem Tag"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:79
+#, php-format
+msgid "vor etwa %s Tagen"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:83
+msgid "vor etwa einer Woche"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:85
+#, php-format
+msgid "vor etwa %s Wochen"
+msgstr ""
+
+#: app/controller/Benutzer/Pinnwand.php:87
+#, php-format
+msgid "am %s um %s Uhr"
+msgstr ""
+
+#: app/controller/Benutzer/Register.php:20
+msgid "Bitte gib einen Namen an."
+msgstr ""
+
+#: app/controller/Benutzer/Register.php:23
+msgid "Bitte &uuml;berpr&uuml;fe deine eMail Adresse."
+msgstr ""
+
+#: app/controller/Benutzer/Register.php:30
+msgid "Der Benutzername und oder die E-Mail Adresse ist berreits vergeben."
+msgstr ""
+
+#: app/controller/Benutzer/Register.php:40
+msgid ""
+"Deine Registrierung war erfolgreich!<br/>Dir wird in k&uuml;rze eine E-Mail "
+"mit deinen Zugangsdaten geschickt."
+msgstr ""
+
+#: app/controller/Benutzer/Register.php:60
+#, php-format
+msgid ""
+"\r\n"
+"        Hallo %s,<br>\r\n"
+"        <br>\r\n"
+"        Vielen Dank f&uuml;r deine Registrierung.<br>\r\n"
+"        <br>\r\n"
+"        Deine Zugangsdaten:<br>\r\n"
+"        Benutzername: <b>%s</b><br>  \r\n"
+"        Passwort: <b>%s</b><br>\r\n"
+"        <br>\r\n"
+"        Zum Start wurde dein Konto mit 5000 Euro aufgeladen.<br>\r\n"
+"        Wir hoffen, dass du viel Spa&szlig; beim B&ouml;rsenpoker hast.<br>"
+"\r\n"
+"        <br>\r\n"
+"        <br>\r\n"
+"        Mit freundlichen Gr&uuml;&szlig;en<br>\r\n"
+"        <br>\r\n"
+"        Dein B&ouml;rsen Team<br>\r\n"
+"        Link: <a href=\"http://www.boersenspiel.ath.cx/\">www.boersenspiel."
+"ath.cx</a>\r\n"
+"        "
+msgstr ""
+
+#: app/controller/Benutzer/Profil.php:83
+msgid "Dein altes Passwort stimmt nicht &uuml;berein!"
+msgstr ""
+
+#: app/controller/Benutzer/Profil.php:88
+msgid "Bitte &uuml;berpr&uuml;fe dein neues Passwort!"
+msgstr ""
+
+#: app/controller/Benutzer/Profil.php:93
+msgid "Dein neues Passwort wurde erfolgreich gespeichert."
+msgstr ""
+
+#: template/default/navigation.php:3
+msgid "Startseite"
+msgstr ""
+
+#: template/default/navigation.php:4
+msgid "Kontakt"
+msgstr ""
+
+#: template/default/navigation.php:8
+msgid "Konto"
+msgstr ""
+
+#: template/default/navigation.php:13
+msgid "Posteingang"
+msgstr ""
+
+#: template/default/navigation.php:15
+msgid "Schreiben"
+msgstr ""
+
+#: template/default/navigation.php:22
+msgid "Navigation"
+msgstr ""
+
+#: template/default/navigation.php:31
+msgid "Abmelden"
+msgstr ""
+
+#: template/default/navigation.php:35
+msgid "Registieren"
+msgstr ""

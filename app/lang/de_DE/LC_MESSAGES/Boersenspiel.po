@@ -1,0 +1,998 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Boersenspiel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-25 16:48+0200\n"
+"PO-Revision-Date: 2011-08-26 13:48+0100\n"
+"Last-Translator: Michael Muth <mr.muth@live.com>\n"
+"Language-Team: codejungle <andreas@codejungle.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: template/default/navigation.php:3
+msgid "Startseite"
+msgstr "Startseite"
+
+#: template/default/navigation.php:7
+#: module/Benutzer/views/Profil/index.php:99
+msgid "Deutsch"
+msgstr "Deutsch"
+
+#: template/default/navigation.php:8
+#: module/Benutzer/views/Profil/index.php:100
+msgid "Englisch"
+msgstr "Englisch"
+
+#: template/default/navigation.php:14
+msgid "Konto"
+msgstr "Konto"
+
+#: template/default/navigation.php:16
+#: module/Spiel/views/Highscore/index.php:29
+#: module/Benutzer/views/Profil/index.php:2
+#: module/Benutzer/views/Profil/profil.php:2
+#: module/Benutzer/Profil.php:12
+msgid "Profil"
+msgstr "Profil"
+
+#: template/default/navigation.php:17
+#: module/Spiel/views/Nachrichten/index.php:1
+#: module/Spiel/Nachrichten.php:11
+#: module/Benutzer/views/Profil/index.php:15
+msgid "Nachrichten"
+msgstr "Nachrichten"
+
+#: template/default/navigation.php:19
+msgid "Posteingang"
+msgstr "Posteingang"
+
+#: template/default/navigation.php:20
+#: module/Spiel/views/Nachrichten/lesen.php:9
+#: module/Benutzer/views/Profil/index.php:17
+msgid "Lesen"
+msgstr "Lesen"
+
+#: template/default/navigation.php:21
+msgid "Schreiben"
+msgstr "Schreiben"
+
+#: template/default/navigation.php:24
+#: module/Aktien/views/Uebersicht/index.php:10
+#: module/Spiel/views/Nachrichten/index.php:33
+#: module/Benutzer/views/Profil/index.php:91
+msgid "Optionen"
+msgstr "Optionen"
+
+#: template/default/navigation.php:25
+#: module/Benutzer/views/Profil/index.php:144
+msgid "Daten"
+msgstr "Daten"
+
+#: template/default/navigation.php:26
+#: module/Benutzer/views/Anmelden/index.php:17
+#: module/Benutzer/views/Profil/index.php:200
+msgid "Passwort"
+msgstr "Passwort"
+
+#: template/default/navigation.php:31
+msgid "Navigation"
+msgstr "Navigation"
+
+#: template/default/navigation.php:33
+#: module/Aktien/views/Uebersicht/index.php:2
+#: module/Benutzer/views/Aktien/index.php:18
+msgid "Marktplatz"
+msgstr "Marktplatz"
+
+#: template/default/navigation.php:37
+#: module/Benutzer/views/Aktien/index.php:2
+msgid "Mein Markt"
+msgstr "Mein Markt"
+
+#: template/default/navigation.php:38
+#: module/Spiel/views/Chat/index.php:2
+msgid "Chat"
+msgstr "Chat"
+
+#: template/default/navigation.php:39
+#: module/Spiel/views/Highscore/index.php:2
+msgid "Bestenliste"
+msgstr "Bestenliste"
+
+#: template/default/navigation.php:40
+msgid "Abmelden"
+msgstr "Abmelden"
+
+#: template/default/navigation.php:44
+msgid "Registieren"
+msgstr "Registieren"
+
+#: template/default/navigation.php:45
+#: module/Benutzer/Anmelden.php:8
+#: module/Benutzer/views/Anmelden/index.php:28
+#: module/Benutzer/views/Anmelden/index.php:30
+msgid "Anmelden"
+msgstr "Anmelden"
+
+#: template/default/navigation.php:49
+#: module/Spiel/views/Hilfe/index.php:1
+msgid "Hilfe"
+msgstr "Hilfe"
+
+#: conf/init.php:33
+#: module/Benutzer/views/Profil/profil.php:9
+msgid "_LAST_LOGIN_DATE_"
+msgstr "%A, den %e.%m.%Y um %H:%M Uhr"
+
+#: module/Aktien/Info.php:7
+msgid "Aktien Information"
+msgstr "Aktien Information"
+
+#: module/Aktien/Uebersicht.php:7
+msgid "Aktien Übersicht"
+msgstr "Aktien Übersicht"
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:2
+#: module/Aktien/views/Kaufen/index.php:2
+#: module/Aktien/Kaufen.php:9
+msgid "Aktien Kaufen"
+msgstr "Aktien Kaufen"
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:15
+#: module/Spiel/views/Nachrichten/index.php:6
+#: module/Benutzer/views/Aktien/Transaktion.php:22
+#: module/Benutzer/views/Aktien/index.php:8
+#: module/Benutzer/views/Profil/index.php:6
+#: module/Benutzer/views/Profil/passwort.php:15
+msgid "Information"
+msgstr "Information"
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:24
+msgid "Zur&uuml;ck zur &Uuml;bersicht."
+msgstr "Zur&uuml;ck zur &Uuml;bersicht."
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:26
+msgid "&Uuml;bersicht"
+msgstr "&Uuml;bersicht"
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:29
+#: module/Benutzer/views/Aktien/Transaktion.php:30
+msgid "Zur&uuml;ck zum Kauf der Anteile."
+msgstr "Zur&uuml;ck zum Kauf der Anteile."
+
+#: module/Aktien/views/Kaufen/Bezahlen.php:31
+#: module/Benutzer/views/Aktien/Transaktion.php:32
+#: module/Benutzer/views/Profil/passwort.php:25
+msgid "Zur&uuml;ck"
+msgstr "Zur&uuml;ck"
+
+#: module/Aktien/views/Kaufen/index.php:11
+msgid "Leider ist der Verkauf dieser Aktie <br /> vor&uuml;bergehend ausgeschlossen."
+msgstr "Leider ist der Verkauf dieser Aktie <br /> vor&uuml;bergehend ausgeschlossen."
+
+#: module/Aktien/views/Kaufen/index.php:15
+#, php-format
+msgid "Mit deinem aktuellen Guthaben von %s &euro; <br /> kannst du maximal %s Anteile kaufen."
+msgstr "Mit deinem aktuellen Guthaben von %s &euro; <br /> kannst du maximal %s Anteile kaufen."
+
+#: module/Aktien/views/Kaufen/index.php:20
+#: module/Aktien/views/Uebersicht/index.php:7
+#: module/Aktien/views/Info/index.php:12
+#: module/Benutzer/views/Aktien/Verkaufen.php:24
+#: module/Benutzer/views/Aktien/index.php:28
+msgid "Firma"
+msgstr "Firma"
+
+#: module/Aktien/views/Kaufen/index.php:23
+msgid "Mein Guthaben"
+msgstr "Mein Guthaben"
+
+#: module/Aktien/views/Kaufen/index.php:25
+msgid "Preis pro Aktie"
+msgstr "Preis pro Aktie"
+
+#: module/Aktien/views/Kaufen/index.php:27
+msgid "Aktualisiert um"
+msgstr "Aktualisiert um"
+
+#: module/Aktien/views/Kaufen/index.php:29
+msgid "Verfügbare Anteile"
+msgstr "Verfügbare Anteile"
+
+#: module/Aktien/views/Kaufen/index.php:33
+#: module/Benutzer/views/Aktien/Verkaufen.php:35
+msgid "Anzahl"
+msgstr "Anzahl"
+
+#: module/Aktien/views/Kaufen/index.php:35
+#: module/Aktien/views/Kaufen/index.php:37
+#: module/Aktien/views/Uebersicht/index.php:30
+msgid "Kaufen"
+msgstr "Kaufen"
+
+#: module/Aktien/views/Uebersicht/index.php:8
+msgid "Kurs"
+msgstr "Kurs"
+
+#: module/Aktien/views/Uebersicht/index.php:9
+#: module/Benutzer/views/Aktien/index.php:29
+msgid "Anteile"
+msgstr "Anteile"
+
+#: module/Aktien/views/Uebersicht/index.php:24
+#, php-format
+msgid "Zeigt Echtzeit Informationen <br /> der Firma %s"
+msgstr "Zeigt Echtzeit Informationen <br /> der Firma %s"
+
+#: module/Aktien/views/Uebersicht/index.php:26
+msgid "Info"
+msgstr "Info"
+
+#: module/Aktien/views/Uebersicht/index.php:28
+#, php-format
+msgid "Anteile der Firma %s <br /> erwerben?"
+msgstr "Anteile der Firma %s <br /> erwerben?"
+
+#: module/Aktien/views/Info/index.php:2
+msgid "Echtzeit Information"
+msgstr "Echtzeit Information"
+
+#: module/Aktien/views/Info/index.php:8
+#, php-format
+msgid "Hier siehst du den Echtzeitkurs von %s <br /> der jede Sekunde aktualisiert wird"
+msgstr "Hier siehst du den Echtzeitkurs von %s <br /> der jede Sekunde aktualisiert wird"
+
+#: module/Aktien/views/Info/index.php:14
+msgid "Kursupdate um"
+msgstr "Kursupdate um"
+
+#: module/Aktien/views/Info/index.php:14
+#: module/Benutzer/views/Aktien/Verkaufen.php:31
+#: module/Benutzer/views/Profil/profil.php:62
+msgid "Uhr"
+msgstr "Uhr"
+
+#: module/Aktien/Kaufen.php:34
+msgid "Der Kauf dieser Aktien sind im Augenblick vom Handel ausgeschlossen. Bitte versuche es zu einem sp&auml;teren Zeitpunkt noch einmal."
+msgstr "Der Kauf dieser Aktien sind im Augenblick vom Handel ausgeschlossen. Bitte versuche es zu einem sp&auml;teren Zeitpunkt noch einmal."
+
+#: module/Aktien/Kaufen.php:39
+msgid "Es sind nicht gen&uuml;gend Anteile verf&uuml;gbar."
+msgstr "Es sind nicht gen&uuml;gend Anteile verf&uuml;gbar."
+
+#: module/Aktien/Kaufen.php:45
+msgid "Du hast leider nicht gen&uuml;gend Guthaben zur Verf&uuml;gung."
+msgstr "Du hast leider nicht gen&uuml;gend Guthaben zur Verf&uuml;gung."
+
+#: module/Aktien/Kaufen.php:50
+msgid "Du musst mindestens 1 Anteil kaufen."
+msgstr "Du musst mindestens 1 Anteil kaufen."
+
+#: module/Aktien/Kaufen.php:63
+#, php-format
+msgid "Du hast bei einem Kurs von aktuell %s &euro; erfolgreich %s Anteile von der Firma %s gekauft. Wir w&uuml;nschen dir viel Erfolg!"
+msgstr "Du hast bei einem Kurs von aktuell %s &euro; erfolgreich %s Anteile von der Firma %s gekauft. Wir w&uuml;nschen dir viel Erfolg!"
+
+#: module/Spiel/views/Chat/index.php:34
+msgid "Autoscroll"
+msgstr "Autoscroll"
+
+#: module/Spiel/views/Chat/index.php:35
+msgid "Aktivieren"
+msgstr "Aktivieren"
+
+#: module/Spiel/views/Chat/index.php:36
+msgid "Deaktivieren"
+msgstr "Deaktivieren"
+
+#: module/Spiel/views/Nachrichten/lesen.php:5
+#: module/Spiel/views/Nachrichten/lesen.php:34
+#: module/Spiel/views/Nachrichten/schreiben.php:17
+#: module/Spiel/views/Nachrichten/schreiben.php:62
+#: module/Spiel/views/Highscore/index.php:33
+#: module/Benutzer/views/Profil/profil.php:78
+msgid "Nachricht"
+msgstr "Nachricht"
+
+#: module/Spiel/views/Nachrichten/lesen.php:13
+#: module/Spiel/views/Nachrichten/index.php:27
+msgid "Von"
+msgstr "Von"
+
+#: module/Spiel/views/Nachrichten/lesen.php:20
+msgid "Datum"
+msgstr "Datum"
+
+#: module/Spiel/views/Nachrichten/lesen.php:27
+#: module/Spiel/views/Nachrichten/schreiben.php:55
+#: module/Spiel/views/Nachrichten/index.php:30
+msgid "Betreff"
+msgstr "Betreff"
+
+#: module/Spiel/views/Nachrichten/lesen.php:41
+#, php-format
+msgid "%s auf diese Nachricht antworten?"
+msgstr "%s auf diese Nachricht antworten?"
+
+#: module/Spiel/views/Nachrichten/schreiben.php:9
+msgid "Original Nachricht"
+msgstr "Original Nachricht"
+
+#: module/Spiel/views/Nachrichten/schreiben.php:22
+#: module/Benutzer/views/Profil/index.php:17
+msgid "Verfassen"
+msgstr "Verfassen"
+
+#: module/Spiel/views/Nachrichten/schreiben.php:48
+msgid "Empfänger"
+msgstr "Empfänger"
+
+#: module/Spiel/views/Nachrichten/schreiben.php:69
+#: module/Spiel/views/Nachrichten/schreiben.php:71
+msgid "Senden"
+msgstr "Senden"
+
+#: module/Spiel/views/Nachrichten/schreiben.php:69
+msgid "Nachricht senden?"
+msgstr "Nachricht senden?"
+
+#: module/Spiel/views/Nachrichten/index.php:9
+msgid "In deinem Posteingang befinden sich momentan keine Nachrichten."
+msgstr "In deinem Posteingang befinden sich momentan keine Nachrichten."
+
+#: module/Spiel/views/Nachrichten/index.php:14
+msgid "Einem Benutzer eine Nachricht schreiben?"
+msgstr "Einem Benutzer eine Nachricht schreiben?"
+
+#: module/Spiel/views/Nachrichten/index.php:16
+msgid "Nachricht verfassen"
+msgstr "Nachricht verfassen"
+
+#: module/Spiel/views/Nachrichten/index.php:46
+msgid "ANTWORT"
+msgstr "ANTWORT"
+
+#: module/Spiel/views/Nachrichten/index.php:70
+#, php-format
+msgid "Am: %s um %s Uhr"
+msgstr "Am: %s um %s Uhr"
+
+#: module/Spiel/views/Nachrichten/index.php:75
+msgid "Diese Nachricht lesen?"
+msgstr "Diese Nachricht lesen?"
+
+#: module/Spiel/views/Nachrichten/index.php:77
+msgid "Auf diese Nachricht antworten?"
+msgstr "Auf diese Nachricht antworten?"
+
+#: module/Spiel/views/Nachrichten/index.php:79
+msgid "Diese Nachricht l&ouml;schen?"
+msgstr "Diese Nachricht l&ouml;schen?"
+
+#: module/Spiel/views/Highscore/index.php:7
+msgid "Spieler"
+msgstr "Spieler"
+
+#: module/Spiel/views/Highscore/index.php:8
+#: module/Benutzer/views/Profil/index.php:9
+#: module/Benutzer/views/Profil/profil.php:45
+msgid "Position"
+msgstr "Position"
+
+#: module/Spiel/views/Highscore/index.php:9
+#: module/Benutzer/views/Profil/index.php:50
+#: module/Benutzer/views/Profil/profil.php:85
+msgid "Abzeichen"
+msgstr "Abzeichen"
+
+#: module/Spiel/views/Highscore/index.php:10
+msgid "Guthaben"
+msgstr "Guthaben"
+
+#: module/Spiel/views/Highscore/index.php:11
+#: module/Benutzer/views/Aktien/index.php:33
+msgid "Aktion"
+msgstr "Aktion"
+
+#: module/Spiel/views/Highscore/index.php:27
+#, php-format
+msgid "Profil von %s betrachten?"
+msgstr "Profil von %s betrachten?"
+
+#: module/Spiel/views/Highscore/index.php:31
+#: module/Benutzer/views/Profil/profil.php:76
+#, php-format
+msgid "%s eine Nachricht schreiben?"
+msgstr "%s eine Nachricht schreiben?"
+
+#: module/Spiel/Nachrichten.php:63
+#: module/Spiel/Nachrichten.php:72
+msgid "Empf&auml;nger konnte nicht gefunden werden."
+msgstr "Empf&auml;nger konnte nicht gefunden werden."
+
+#: module/Spiel/Nachrichten.php:86
+#, php-format
+msgid "Deine Nachricht wurde erfolgreich an %s gesendet."
+msgstr "Deine Nachricht wurde erfolgreich an %s gesendet."
+
+#: module/Spiel/Chat.php:33
+#, php-format
+msgid "Am %s um %s Uhr"
+msgstr "Am %s um %s Uhr"
+
+#: module/Spiel/Chat.php:42
+#, php-format
+msgid "Zum Profil von %s springen?"
+msgstr "Zum Profil von %s springen?"
+
+#: module/Benutzer/Register.php:20
+msgid "Bitte gib einen Namen an."
+msgstr "Bitte gib einen Namen an."
+
+#: module/Benutzer/Register.php:23
+msgid "Bitte überprüfe deine eMail Adresse."
+msgstr "Bitte überprüfe deine eMail Adresse."
+
+#: module/Benutzer/Register.php:30
+msgid "Der Benutzername oder die eMail Adresse ist berreits vergeben."
+msgstr "Der Benutzername oder die eMail Adresse ist berreits vergeben."
+
+#: module/Benutzer/Register.php:40
+msgid "Deine Registrierung war erfolgreich! <br/>Dir wird in k&uuml;rze eine E-Mail mit deinen Zugangsdaten geschickt."
+msgstr "Deine Registrierung war erfolgreich! <br/>Dir wird in k&uuml;rze eine E-Mail mit deinen Zugangsdaten geschickt."
+
+#: module/Benutzer/views/Register/Speichern.php:2
+#: module/Benutzer/views/Register/index.php:2
+#: module/Facebook/views/User/register.php:2
+msgid "Registrierung"
+msgstr "Registrierung"
+
+#: module/Benutzer/views/Register/Speichern.php:27
+#: module/Benutzer/views/Register/index.php:9
+#: module/Benutzer/views/Anmelden/index.php:9
+#: module/Benutzer/views/Profil/profil.php:43
+#: module/Facebook/views/User/register.php:20
+msgid "Benutzername"
+msgstr "Benutzername"
+
+#: module/Benutzer/views/Register/Speichern.php:35
+#: module/Benutzer/views/Register/index.php:17
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: module/Benutzer/views/Register/Speichern.php:42
+#: module/Benutzer/views/Register/Speichern.php:44
+#: module/Benutzer/views/Register/index.php:24
+#: module/Benutzer/views/Register/index.php:26
+#: module/Facebook/views/User/register.php:29
+msgid "Registrieren"
+msgstr "Registrieren"
+
+#: module/Benutzer/views/Aktien/Transaktion.php:2
+#: module/Benutzer/views/Aktien/Verkaufen.php:2
+msgid "Aktien Verkaufen"
+msgstr "Aktien Verkaufen"
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:12
+#, php-format
+msgid "Beim Verkauf w&uuml;rdest du einen Verlust <br /> von -%s &euro; pro Aktie machen."
+msgstr "Beim Verkauf w&uuml;rdest du einen Verlust <br /> von -%s &euro; pro Aktie machen."
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:15
+msgid "Beim Verkauf w&uuml;rdest du weder ein <br /> Gewinn noch Verlust verzeichen."
+msgstr "Beim Verkauf w&uuml;rdest du weder ein <br /> Gewinn noch Verlust verzeichen."
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:19
+#, php-format
+msgid "Beim Verkauf w&uuml;rdest du einen Gewinn <br /> von +%s &euro; pro Aktie machen."
+msgstr "Beim Verkauf w&uuml;rdest du einen Gewinn <br /> von +%s &euro; pro Aktie machen."
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:27
+#: module/Benutzer/views/Aktien/index.php:31
+msgid "Aktueller Kurs"
+msgstr "Aktueller Kurs"
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:27
+msgid "&euro;"
+msgstr "&euro;"
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:29
+#: module/Benutzer/views/Aktien/index.php:30
+msgid "Gekauft bei"
+msgstr "Gekauft bei"
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:31
+msgid "Letztes update"
+msgstr "Letztes update"
+
+#: module/Benutzer/views/Aktien/Verkaufen.php:37
+#: module/Benutzer/views/Aktien/Verkaufen.php:39
+#: module/Benutzer/views/Aktien/index.php:83
+msgid "Verkaufen"
+msgstr "Verkaufen"
+
+#: module/Benutzer/views/Aktien/index.php:11
+msgid "Keine Aktien in der &Uuml;bersicht vorhanden."
+msgstr "Keine Aktien in der &Uuml;bersicht vorhanden."
+
+#: module/Benutzer/views/Aktien/index.php:16
+msgid "Aktien kaufen?"
+msgstr "Aktien kaufen?"
+
+#: module/Benutzer/views/Aktien/index.php:32
+msgid "Trend"
+msgstr "Trend"
+
+#: module/Benutzer/views/Aktien/index.php:50
+#, php-format
+msgid "Der aktuelle Kurs pro Aktie ist um %s &euro; gesunken. <br /> Du solltest warten!"
+msgstr "Der aktuelle Kurs pro Aktie ist um %s &euro; gesunken. <br /> Du solltest warten!"
+
+#: module/Benutzer/views/Aktien/index.php:53
+msgid "Beim Verkauf w&uuml;rdest du weder ein Gewinn noch Verlust verzeichen. <br /> Wir empfehlen zu warten."
+msgstr "Beim Verkauf w&uuml;rdest du weder ein Gewinn noch Verlust verzeichen. <br /> Wir empfehlen zu warten."
+
+#: module/Benutzer/views/Aktien/index.php:57
+#, php-format
+msgid "Der aktuelle Kurs pro Aktie ist um %s &euro; gestiegen. <br /> Du solltest verkaufen!"
+msgstr "Der aktuelle Kurs pro Aktie ist um %s &euro; gestiegen. <br /> Du solltest verkaufen!"
+
+#: module/Benutzer/views/Aktien/index.php:63
+#, php-format
+msgid "Zeigt Echtzeit Informationen <br /> der Firma  %s"
+msgstr "Zeigt Echtzeit Informationen <br /> der Firma  %s"
+
+#: module/Benutzer/views/Aktien/index.php:82
+#, php-format
+msgid "Anteile der Firma %s <br /> verkaufen?"
+msgstr "Anteile der Firma %s <br /> verkaufen?"
+
+#: module/Benutzer/views/Anmelden/erfolgreich.php:2
+msgid "Herzlich Willkommen"
+msgstr "Herzlich Willkommen"
+
+#: module/Benutzer/views/Anmelden/index.php:2
+msgid "Anmeldung"
+msgstr "Anmeldung"
+
+#: module/Benutzer/views/Anmelden/index.php:26
+msgid "Passwort vergessen?"
+msgstr "Passwort vergessen?"
+
+#: module/Benutzer/views/Profil/header.php:18
+msgid "Avatar auswählen"
+msgstr "Avatar auswählen"
+
+#: module/Benutzer/views/Profil/header.php:19
+msgid "Bilder"
+msgstr "Bilder"
+
+#: module/Benutzer/views/Profil/header.php:46
+msgid "Schlie&szlig;en"
+msgstr "Schlie&szlig;en"
+
+#: module/Benutzer/views/Profil/header.php:54
+msgid "Konto l\\u00f6schen"
+msgstr "Konto l\\u00f6schen"
+
+#: module/Benutzer/views/Profil/header.php:55
+msgid "Bist du dir wirklich sicher? <br/>Wir w&uuml;rden dich sehr vermissen."
+msgstr "Bist du dir wirklich sicher? <br/>Wir w&uuml;rden dich sehr vermissen."
+
+#: module/Benutzer/views/Profil/header.php:62
+msgid "\\u00dcbernehmen"
+msgstr "\\u00dcbernehmen"
+
+#: module/Benutzer/views/Profil/header.php:63
+#: module/Benutzer/views/Profil/index.php:127
+msgid "Optionen &auml;ndern?"
+msgstr "Optionen &auml;ndern?"
+
+#: module/Benutzer/views/Profil/index.php:11
+msgid "Aktueller Kontostand"
+msgstr "Aktueller Kontostand"
+
+#: module/Benutzer/views/Profil/index.php:13
+msgid "Profilaufrufe"
+msgstr "Profilaufrufe"
+
+#: module/Benutzer/views/Profil/index.php:16
+msgid "Nachrichten lesen?"
+msgstr "Nachrichten lesen?"
+
+#: module/Benutzer/views/Profil/index.php:17
+msgid "Neue Nachricht verfassen?"
+msgstr "Neue Nachricht verfassen?"
+
+#: module/Benutzer/views/Profil/index.php:20
+msgid "Nur f&uuml;r registrierte Benutzer sichtbar"
+msgstr "Nur f&uuml;r registrierte Benutzer sichtbar"
+
+#: module/Benutzer/views/Profil/index.php:22
+msgid "Mein &ouml;ffentliches Profil"
+msgstr "Mein &ouml;ffentliches Profil"
+
+#: module/Benutzer/views/Profil/index.php:30
+msgid "Avatar"
+msgstr "Avatar"
+
+#: module/Benutzer/views/Profil/index.php:35
+msgid "Dein aktuelles Profilbild l&ouml;schen?"
+msgstr "Dein aktuelles Profilbild l&ouml;schen?"
+
+#: module/Benutzer/views/Profil/index.php:40
+msgid "Klicke um ein Avatar f&uuml;r dein Profil auszuw&auml;hlen"
+msgstr "Klicke um ein Avatar f&uuml;r dein Profil auszuw&auml;hlen"
+
+#: module/Benutzer/views/Profil/index.php:55
+#: module/Benutzer/views/Profil/profil.php:90
+msgid "Abzeichen: Dino - Wert: 1000 &euro;"
+msgstr "Abzeichen: Dino - Wert: 1000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:56
+#: module/Benutzer/views/Profil/profil.php:91
+msgid "Abzeichen: Geld - Wert: 1.000.000 &euro;"
+msgstr "Abzeichen: Geld - Wert: 1.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:57
+#: module/Benutzer/views/Profil/profil.php:92
+msgid "Abzeichen: Panda - Wert: 500.000 &euro;"
+msgstr "Abzeichen: Panda - Wert: 500.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:58
+#: module/Benutzer/views/Profil/profil.php:93
+msgid "Abzeichen: Rose - Wert 50.000 &euro;"
+msgstr "Abzeichen: Rose - Wert 50.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:59
+#: module/Benutzer/views/Profil/profil.php:94
+msgid "Abzeichen: Fallschirm - Wert: 5.000 &euro;"
+msgstr "Abzeichen: Fallschirm - Wert: 5.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:60
+#: module/Benutzer/views/Profil/profil.php:95
+msgid "Abzeichen: Lippenstift - Wert: 100 &euro;"
+msgstr "Abzeichen: Lippenstift - Wert: 100 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:61
+#: module/Benutzer/views/Profil/profil.php:96
+msgid "Abzeichen: Parf&uuml;m - Wert:  500 &euro;"
+msgstr "Abzeichen: Parf&uuml;m - Wert:  500 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:62
+#: module/Benutzer/views/Profil/profil.php:97
+msgid "Abzeichen: Handtasche - Wert: 1.500 &euro;"
+msgstr "Abzeichen: Handtasche - Wert: 1.500 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:63
+#: module/Benutzer/views/Profil/profil.php:98
+msgid "Abzeichen: Amor - Wert:  300.000 &euro;"
+msgstr "Abzeichen: Amor - Wert:  300.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:64
+#: module/Benutzer/views/Profil/profil.php:99
+msgid "Abzeichen: Teddyb&auml;r - Wert:  250.000 &euro;"
+msgstr "Abzeichen: Teddyb&auml;r - Wert:  250.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:65
+#: module/Benutzer/views/Profil/profil.php:100
+msgid "Abzeichen: Pralinen - Wert:  3.500 &euro;"
+msgstr "Abzeichen: Pralinen - Wert:  3.500 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:66
+#: module/Benutzer/views/Profil/profil.php:101
+msgid "Abzeichen: Marke - Wert:  2.000.000 &euro;"
+msgstr "Abzeichen: Marke - Wert:  2.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:67
+#: module/Benutzer/views/Profil/profil.php:102
+msgid "Abzeichen: Historie - Wert: 10.000.000 &euro;"
+msgstr "Abzeichen: Historie - Wert: 10.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:68
+#: module/Benutzer/views/Profil/profil.php:103
+msgid "Abzeichen: Schweinchen - Wert: 50.000 &euro;"
+msgstr "Abzeichen: Schweinchen - Wert: 50.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:69
+#: module/Benutzer/views/Profil/profil.php:104
+msgid "Abzeichen: Regierung - Wert: 4.000.000 &euro;"
+msgstr "Abzeichen: Regierung - Wert: 4.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:70
+#: module/Benutzer/views/Profil/profil.php:105
+msgid "Abzeichen: Eigenheim - Wert: 3.000.000 &euro;"
+msgstr "Abzeichen: Eigenheim - Wert: 3.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:71
+#: module/Benutzer/views/Profil/profil.php:106
+msgid "Abzeichen: Torte - Wert: 400 &euro;"
+msgstr "Abzeichen: Torte - Wert: 400 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:72
+#: module/Benutzer/views/Profil/profil.php:107
+msgid "Abzeichen: Peperoni - Wert: 300 &euro;"
+msgstr "Abzeichen: Peperoni - Wert: 300 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:73
+#: module/Benutzer/views/Profil/profil.php:108
+msgid "Abzeichen: Kaffeetasse - Wert: 600 &euro;"
+msgstr "Abzeichen: Kaffeetasse - Wert: 600 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:74
+#: module/Benutzer/views/Profil/profil.php:109
+msgid "Abzeichen: B&ouml;rsenprofi - Wert: 5.000.000 &euro;"
+msgstr "Abzeichen: B&ouml;rsenprofi - Wert: 5.000.000 &euro;"
+
+#: module/Benutzer/views/Profil/index.php:80
+msgid "Mehr Abzeichen kaufen?"
+msgstr "Mehr Abzeichen kaufen?"
+
+#: module/Benutzer/views/Profil/index.php:82
+msgid "Einkaufen"
+msgstr "Einkaufen"
+
+#: module/Benutzer/views/Profil/index.php:95
+msgid "Sprache"
+msgstr "Sprache"
+
+#: module/Benutzer/views/Profil/index.php:105
+msgid "Farbschema"
+msgstr "Farbschema"
+
+#: module/Benutzer/views/Profil/index.php:109
+msgid "Blau"
+msgstr "Blau"
+
+#: module/Benutzer/views/Profil/index.php:110
+msgid "Grau"
+msgstr "Grau"
+
+#: module/Benutzer/views/Profil/index.php:111
+msgid "Gr&uuml;n"
+msgstr "Gr&uuml;n"
+
+#: module/Benutzer/views/Profil/index.php:112
+msgid "Orange"
+msgstr "Orange"
+
+#: module/Benutzer/views/Profil/index.php:117
+msgid "Nutzerkonto"
+msgstr "Nutzerkonto"
+
+#: module/Benutzer/views/Profil/index.php:121
+msgid "Auswahl"
+msgstr "Auswahl"
+
+#: module/Benutzer/views/Profil/index.php:122
+msgid "Unwiderruflich l&ouml;schen"
+msgstr "Unwiderruflich l&ouml;schen"
+
+#: module/Benutzer/views/Profil/index.php:127
+msgid "Optionen &auml;ndern"
+msgstr "Optionen &auml;ndern"
+
+#: module/Benutzer/views/Profil/index.php:129
+#: module/Benutzer/views/Profil/index.php:191
+#: module/Benutzer/views/Profil/index.php:217
+msgid "&Uuml;bernehmen"
+msgstr "&Uuml;bernehmen"
+
+#: module/Benutzer/views/Profil/index.php:138
+msgid "Achtung"
+msgstr "Achtung"
+
+#: module/Benutzer/views/Profil/index.php:139
+msgid "Dein Konto wird unwiderruflich gel&ouml;scht!"
+msgstr "Dein Konto wird unwiderruflich gel&ouml;scht!"
+
+#: module/Benutzer/views/Profil/index.php:148
+msgid "Name"
+msgstr "Name"
+
+#: module/Benutzer/views/Profil/index.php:155
+#: module/Benutzer/views/Profil/profil.php:60
+msgid "Geburtstag"
+msgstr "Geburtstag"
+
+#: module/Benutzer/views/Profil/index.php:158
+msgid "Tag"
+msgstr "Tag"
+
+#: module/Benutzer/views/Profil/index.php:159
+msgid "Monat"
+msgstr "Monat"
+
+#: module/Benutzer/views/Profil/index.php:160
+msgid "Jahr"
+msgstr "Jahr"
+
+#: module/Benutzer/views/Profil/index.php:164
+#: module/Benutzer/views/Profil/profil.php:57
+msgid "Geschlecht"
+msgstr "Geschlecht"
+
+#: module/Benutzer/views/Profil/index.php:168
+msgid "M&auml;nnlich"
+msgstr "M&auml;nnlich"
+
+#: module/Benutzer/views/Profil/index.php:169
+#: module/Benutzer/views/Profil/profil.php:21
+msgid "Weiblich"
+msgstr "Weiblich"
+
+#: module/Benutzer/views/Profil/index.php:170
+#: module/Benutzer/views/Profil/profil.php:24
+msgid "Paar"
+msgstr "Paar"
+
+#: module/Benutzer/views/Profil/index.php:175
+#: module/Benutzer/views/Profil/profil.php:55
+msgid "Herkunft"
+msgstr "Herkunft"
+
+#: module/Benutzer/views/Profil/index.php:182
+#: module/Benutzer/views/Profil/profil.php:66
+msgid "&Uuml;ber mich"
+msgstr "&Uuml;ber mich"
+
+#: module/Benutzer/views/Profil/index.php:189
+msgid "Daten &auml;ndern"
+msgstr "Daten &auml;ndern"
+
+#: module/Benutzer/views/Profil/index.php:189
+msgid "Deine Daten &auml;ndern?"
+msgstr "Deine Daten &auml;ndern?"
+
+#: module/Benutzer/views/Profil/index.php:203
+msgid "Altes Passwort"
+msgstr "Altes Passwort"
+
+#: module/Benutzer/views/Profil/index.php:209
+#: module/Benutzer/views/Profil/passwort.php:2
+msgid "Neues Passwort"
+msgstr "Neues Passwort"
+
+#: module/Benutzer/views/Profil/index.php:215
+msgid "Passwort &auml;ndern"
+msgstr "Passwort &auml;ndern"
+
+#: module/Benutzer/views/Profil/index.php:215
+msgid "Dein Passwort &auml;ndern?"
+msgstr "Dein Passwort &auml;ndern?"
+
+#: module/Benutzer/views/Profil/profil.php:18
+#: module/Benutzer/views/Profil/profil.php:27
+msgid "M&auml;nlich"
+msgstr "M&auml;nlich"
+
+#: module/Benutzer/views/Profil/profil.php:33
+msgid "Benutzerinformation"
+msgstr "Benutzerinformation"
+
+#: module/Benutzer/views/Profil/profil.php:37
+msgid "Aktuelles Profilbild"
+msgstr "Aktuelles Profilbild"
+
+#: module/Benutzer/views/Profil/profil.php:47
+msgid "Alter"
+msgstr "Alter"
+
+#: module/Benutzer/views/Profil/profil.php:49
+msgid "Kontostand"
+msgstr "Kontostand"
+
+#: module/Benutzer/views/Profil/profil.php:53
+msgid "Realer Name"
+msgstr "Realer Name"
+
+#: module/Benutzer/views/Profil/profil.php:60
+msgid "_BIRTHDAY_DATE_"
+msgstr "%e. %B %Y"
+
+#: module/Benutzer/views/Profil/profil.php:62
+msgid "Letzte Anmeldung"
+msgstr "Letzte Anmeldung"
+
+#: module/Benutzer/views/Profil/profil.php:73
+msgid "Schenken"
+msgstr "Schenken"
+
+#: module/Benutzer/views/Profil/passwort.php:23
+msgid "Zur&uuml;ck zum Profil"
+msgstr "Zur&uuml;ck zum Profil"
+
+#: module/Benutzer/views/Abmelden/index.php:2
+msgid "Erfolgreich abgemeldet"
+msgstr "Erfolgreich abgemeldet"
+
+#: module/Benutzer/Profil.php:57
+msgid "Dein altes Passwort stimmt nicht &uuml;berein!"
+msgstr "Dein altes Passwort stimmt nicht &uuml;berein!"
+
+#: module/Benutzer/Profil.php:62
+msgid "Bitte &uuml;berpr&uuml;fe dein neues Passwort!"
+msgstr "Bitte &uuml;berpr&uuml;fe dein neues Passwort!"
+
+#: module/Benutzer/Profil.php:67
+msgid "Dein neues Passwort wurde erfolgreich gespeichert."
+msgstr "Dein neues Passwort wurde erfolgreich gespeichert."
+
+#: module/Benutzer/Aktien.php:9
+msgid "Meine Aktien"
+msgstr "Meine Aktien"
+
+#: module/Benutzer/Aktien.php:26
+#: module/Benutzer/Aktien.php:33
+msgid "Go screw someone else"
+msgstr "Go screw someone else"
+
+#: module/Benutzer/Aktien.php:35
+msgid "Meine Aktien verkaufen"
+msgstr "Meine Aktien verkaufen"
+
+#: module/Benutzer/Aktien.php:47
+msgid "Bitte &uuml;berpr&uuml;fe deine Anzahl."
+msgstr "Bitte &uuml;berpr&uuml;fe deine Anzahl."
+
+#: module/Benutzer/Aktien.php:64
+msgid "Du kannst nicht mehr Verkaufen als du Besitzt."
+msgstr "Du kannst nicht mehr Verkaufen als du Besitzt."
+
+#: module/Benutzer/Aktien.php:93
+#, php-format
+msgid "Du hast erfolgreich %s Anteile der Firma %s verkauft."
+msgstr "Du hast erfolgreich %s Anteile der Firma %s verkauft."
+
+#: module/Facebook/User.php:48
+msgid "Der Benutzername oder die E-Mail Adresse ist berreits vergeben."
+msgstr "Der Benutzername oder die E-Mail Adresse ist berreits vergeben."
+
+#~ msgid "Antworten"
+#~ msgstr "Reply"
+
+#~ msgid "Löschen"
+#~ msgstr "Delete"
+
+#~ msgid "Die Aktien sind vom Handel ausgeschlossen"
+#~ msgstr "This stock is excluded from trade"
+
+#~ msgid "Du hast erfolgreich"
+#~ msgstr "You have successfully bought"
+
+#~ msgid "Aktien von der Firma"
+#~ msgstr "shares of the company"
+
+#~ msgid "Gekauft, bei einem Kurs von"
+#~ msgstr "at a price of"
+
+#~ msgid "Fehler"
+#~ msgstr "Error"
+
+#~ msgid "Leider hast du dich noch nicht dazu entschlossen Aktien zu kaufen."
+#~ msgstr "There are no Market shares in your Portfolio, buy something"
+
+#~ msgid "Aktien von"
+#~ msgstr "Stocks of"
+
+#~ msgid "verkauft"
+#~ msgstr "sold"
+
+#~ msgid "Das neue Passwort muss mind 3 zeichen haben."
+#~ msgstr "The new Password should at least have 3 characters"
+
+#~ msgid "Das Passwort wurde ge&auml;ndert"
+#~ msgstr "the Password has been changed successfuly"
+
+#~ msgid "Letztes Update"
+#~ msgstr "Last Update"
